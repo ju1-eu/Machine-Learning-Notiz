@@ -1,8 +1,8 @@
-# Machine Learning mit Python inkl. AI Einführung
+# Machine Learning 
+
+mit Python inkl. AI Einführung
 
 Quelle: Jan Schaffranek (Udemy)
-
-![Machine Learning](images/MachineLearning-4.pdf)
 
 ## Was ist Python, Anaconda und Jupyter Notebook?
 
@@ -91,7 +91,25 @@ Installation von Anaconda prüfen
 
 ## Jupiter Notebook
 
-    Kernel / Restart & Clear Output
+Jupyter Notebook aus dem Kontextmenü des Dateimanagers starten, 
+ansonsten nur vom Download o. Desktop Ordner!
+
+https://github.com/hyperspy/start_jupyter_cm
+
+    # Win10 / cmd / (Admin)
+    # install
+    pip install start_jupyter_cm
+    
+    # After installation, enable the context menu 
+    start_jupyter_cm
+    
+    # Dateimanager öffnen
+    re. Mausklick / Jupyter Notebook here
+
+Absturz
+
+    Browser:
+    Jupiter Notebook / Kernel / Restart & Clear Output
 
 Zellen:
 
@@ -108,37 +126,16 @@ Passive Zelle wählen:
 print("Hallo Welt!") # Strg + Enter  = Code ausführen
 ```
 
-    Hallo Welt!
-    
-
 ### Python - Links 
 
-Aussagenlogik: https://de.wikipedia.org/wiki/Aussagenlogik
-
-Python Dokumentation: https://docs.python.org/3/
-
-
-
-Python Listen: https://developers.google.com/edu/python/lists
-
-Python Dicts: https://developers.google.com/edu/python/dict-files
-
-Python List Comprehensions: https://de.wikipedia.org/wiki/List_Comprehension
-
-
-
-Python Funktionen: https://www.tutorialspoint.com/python/python_functions.htm
-
-Python Klassen: https://www.learnpython.org/en/Classes_and_Objects
-
-
-
-Python Numpy Dokumentation: https://docs.scipy.org/doc/numpy-1.13.0/reference/
-
-Numpy Einleitung: http://cs231n.github.io/python-numpy-tutorial/
-
-
-
-Python Matplotlib Dokumentation: https://matplotlib.org/contents.html
-
-Matplotlib Einleitung: https://matplotlib.org/tutorials/index.html
+- Aussagenlogik: https://de.wikipedia.org/wiki/Aussagenlogik
+- Python Dokumentation: https://docs.python.org/3/
+- Python Listen: https://developers.google.com/edu/python/lists
+- Python Dicts: https://developers.google.com/edu/python/dict-files
+- Python List Comprehensions: https://de.wikipedia.org/wiki/List_Comprehension
+- Python Funktionen: https://www.tutorialspoint.com/python/python_functions.htm
+- Python Klassen: https://www.learnpython.org/en/Classes_and_Objects
+- Python Numpy Dokumentation: https://docs.scipy.org/doc/numpy-1.13.0/reference/
+- Numpy Einleitung: http://cs231n.github.io/python-numpy-tutorial/
+- Python Matplotlib Dokumentation: https://matplotlib.org/contents.html
+- Matplotlib Einleitung: https://matplotlib.org/tutorials/index.html
