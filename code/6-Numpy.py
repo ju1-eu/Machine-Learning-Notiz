@@ -32,3 +32,4 @@ my_zero.astype(np.int8, copy=False) # 3x3 Matrix, int8 = 8 bit = 256
 # Funktion anwenden
 np.linalg.eig(my_array3) # Matrix übergeben
 
+input() # Pause
